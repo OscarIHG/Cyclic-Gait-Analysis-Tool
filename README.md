@@ -37,3 +37,11 @@ The program calculates the joint angles using trigonometry and displays them thr
 - ***Example Image:***
 
 ![Plot Example](images/PlotExample.jpg)
+
+## Credits
+This project was a team effort. Thanks to everyone who contributed:
+- Velasco López José Carlos
+- Barajas Renteria Jennifer Polet
+- Hernández Gómez Oscar Iván
+- Hernández León Yaisiri Monserrat
+- Hernández Puga Adriana Sarahy
