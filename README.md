@@ -22,7 +22,7 @@ This Matlab program is designed to analyze the gait cycle based on movement data
 **3. Analysis in MATLAB:**
 
 The user selects a ```.txt``` file containing the coordinates and enters the subject's name, scale (pixels/meter), and fps.
-The program calculates the joint angles using trigonometry and displays them through animations and plots.
+The program calculates the joint angles and displays them through plots.
 
 ## Requirements
 - Software: Matlab (any recent version).
